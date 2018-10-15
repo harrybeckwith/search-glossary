@@ -1,4 +1,4 @@
-# Lightbox V
+# Glossary Search
 
 Vanilla JS Glossary search.
 
