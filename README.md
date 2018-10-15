@@ -1,1 +1,1 @@
-# search-glossary
+# glossary-search
